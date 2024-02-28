@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mark-portfolio/static/css/main.89b2839c.css",
+    "main.js": "/mark-portfolio/static/js/main.37d17de2.js",
+    "index.html": "/mark-portfolio/index.html",
+    "main.89b2839c.css.map": "/mark-portfolio/static/css/main.89b2839c.css.map",
+    "main.37d17de2.js.map": "/mark-portfolio/static/js/main.37d17de2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89b2839c.css",
+    "static/js/main.37d17de2.js"
+  ]
+}
