@@ -1,0 +1,54 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/frontend-logo.png",
+            "title": "Front-End",
+            "description": "HTML, CSS, JS, jQuery, CSS frameworks"
+        },
+        {
+            "id": "2",
+            "src": "./img/backend-logo.png",
+            "title": "Back-End",
+            "description": "PHP, SQL, Git"
+        },
+        {
+            "id": "3",
+            "src": "./img/ui-ux-logo.png",
+            "title": "UI & UX Design",
+            "description": "Responsive Design, Figma, Canva"
+        }
+        
+    ],
+
+    "portfolio":[
+        {
+            "id": "1",
+            "img": "./img/hangman-game.png",
+            "title": "Hangman Game",
+            "description": "HTML, CSS, and JavaScript",
+            "link": "https://github.com/MarkLesterB/hangman-game.github.io"
+        },
+        {
+            "id": "2",
+            "img": "./img/id-registration.png",
+            "title": "ID Registration",
+            "description": "JavaScript, PHP, and MySQL",
+            "link": "https://github.com/MarkLesterB/id-registration.github.io"
+        },
+        {
+            "id": "3",
+            "img": "./img/cloning.png",
+            "title": "Web Cloning",
+            "description": "HTML, CSS, and JavaScript",
+            "link": "https://github.com/MarkLesterB/web-cloning.github.io"
+        },
+        {
+            "id": "4",
+            "img": "./img/todo.png",
+            "title": "To Do List",
+            "description": "HTML, CSS, and JavaScript",
+            "link": "https://github.com/MarkLesterB/todo-list.github.io"
+        }
+    ]
+}
